@@ -1,0 +1,4 @@
+streamlit
+pandas
+numpy
+Scikit-learn == 1.1
